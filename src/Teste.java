@@ -4,8 +4,9 @@ public class Teste {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		    String hello =  "hello world";
-			System.out.println("olá " + hello);
+		    String saudacao = "hello world";
+		    String nome = "ronaldo";
+			System.out.println("olá" + nome + " seu primeiro" + saudacao);
 
 	}
 
